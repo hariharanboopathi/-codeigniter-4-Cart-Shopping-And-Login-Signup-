@@ -1,5 +1,6 @@
 # CodeIgniter 4 Framework
-
+#Database 
+"Please import the information.sql file into your database using phpMyAdmin before running this program."
 ## What is CodeIgniter?
 
 CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
